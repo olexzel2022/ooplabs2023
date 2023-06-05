@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OpLab3/OpLab3/obj
+/.vs
+/OpLab3/.vs
